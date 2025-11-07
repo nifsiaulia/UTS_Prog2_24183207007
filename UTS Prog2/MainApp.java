@@ -38,7 +38,6 @@ public class MainApp {
             int angkatan = input.nextInt();
             System.out.print("Masukkan IPK        : ");
             double ipk = input.nextDouble(); //tapi pas input pakai koma(,)
-
             mhs = new Mahasiswa2(npm, nama, prodi, angkatan, ipk);
             System.out.println("Data berhasil ditambahkan!");
 
@@ -63,4 +62,5 @@ public class MainApp {
         input.close();
     }
 }
+
 
