@@ -5,7 +5,6 @@ Kelas: PTI 3A
 
 Program ini terdiri dari dua class utama: Mahasiswa2 dan MainApp.
 1. Class Mahasiswa2
-Blueprint/data model untuk mahasiswa.
 Atribut:
 npm (String) → Nomor Pokok Mahasiswa
 nama (String) → Nama mahasiswa
