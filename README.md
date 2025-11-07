@@ -1,8 +1,8 @@
 # UTS_Prog2_24183207007
 
-Nama:Nifsi Aulia  
+Nama: Nifsi Aulia Ramadhani  
 NPM: 24183207007  
-Kelas: Pendidikan Teknologi Informasi  
+Kelas: Pendidikan Teknologi Informasi (3A)
 
 ---
 
