@@ -1,32 +1,51 @@
 # UTS_Prog2_24183207007
-Nama: Nifsi Aulia Ramadhani
-NPM: 24183207007
-Kelas: PTI 3A
 
-Program ini terdiri dari dua class utama: Mahasiswa2 dan MainApp.
-1. Class Mahasiswa2
-Atribut:
-npm (String) → Nomor Pokok Mahasiswa
-nama (String) → Nama mahasiswa
-prodi (String) → Program studi mahasiswa
-angkatan (int) → Tahun angkatan mahasiswa
-ipk (double) → Indeks Prestasi Kumulatif mahasiswa
-Konstruktor: default dan berparameter untuk inisialisasi atribut.
-Method:
-Setter & Getter → mengatur dan mengambil nilai atribut.
-tampilkanData() → menampilkan data mahasiswa ke layar.
+Nama:Nifsi Aulia  
+NPM: 24183207007  
+Kelas: Pendidikan Teknologi Informasi  
 
-2. Class MainApp
-Program utama untuk input, pengolahan, dan output data mahasiswa.
-Fitur utama:
-Menggunakan Scanner untuk menerima input dari pengguna.
-do-while loop → menampilkan menu berulang sampai pengguna memilih keluar.
-if-else → menangani pilihan menu:
-Tambah data mahasiswa
-Tampilkan data mahasiswa
-Keluar program
-Pilihan tidak valid
-Singkatnya, Mahasiswa2 menyimpan data mahasiswa, sedangkan MainApp mengelola alur program dengan input, menu, perulangan (do-while), dan pengambilan keputusan (if-else) untuk menjalankan fungsi program.
+---
 
-Berikut Hasilnya:
-<img width="606" height="856" alt="Hasil UTS" src="https://github.com/user-attachments/assets/fdc24c96-1878-4cb3-b9d4-fad77d0b14c5" />
+**Deskripsi Program**
+
+Program ini dibuat untuk menyimpan dan menampilkan data mahasiswa secara interaktif, artinya program meminta input dari pengguna, memprosesnya, lalu menampilkan hasil sesuai pilihan menu.
+Program berisi dua class utama, yaitu:
+
+### Class `Mahasiswa2`
+Berfungsi untuk menyimpan data mahasiswa seperti:
+- **nama** (String) → Nama Mahasiswa
+- **npm** (String) → Nomor Pokok mahasiswa
+- **prodi** (String) → Program studi mahasiswa
+- **angkatan** (int) → Tahun angkatan mahasiswa
+- **IPK** (double) → Indeks Prestasi Kumulatif mahasiswa
+
+**Konstruktor:**
+- Default
+- Berparameter
+
+**Method:**
+- setter & getter 
+- tampilkanData() 
+
+### Class  `MainApp`
+Class ini adalah program untuk mengelola input data, pengolahan, dan output data mahasiswa 
+
+**Fitur**
+
+1. Menggunakan Scanner (input) untuk membaca data mahasiswa dari pengguna.
+
+2. do-while loop → Menampilkan menu berulang sampai pengguna memilih keluar.
+
+3. if-else statement → Menentukan aksi berdasarkan pilihan
+
+**Menu/pilihan:**
+- Tambah data mahasiswa
+- Tampilkan data mahasiswa
+- Keluar program
+- Pilihan tidak valid
+---
+
+## Contoh Output
+Berikut hasil ketika program dijalankan di NetBeans:
+
+<img width="606" height="856" alt="Hasil UTS" src="https://github.com/user-attachments/assets/96a9aa29-1346-473c-b6cf-32c56a71acb3" />
