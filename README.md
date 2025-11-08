@@ -34,9 +34,9 @@ Class ini adalah program untuk mengelola input data, pengolahan, dan output data
 
 1. Menggunakan Scanner (input) untuk membaca data mahasiswa dari pengguna.
 
-2. do-while loop → Menampilkan menu berulang sampai pengguna memilih keluar.
+2. do-while → Menampilkan menu berulang sampai pengguna memilih keluar.
 
-3. if-else statement → Menentukan aksi berdasarkan pilihan
+3. if-else → Menentukan aksi berdasarkan pilihan
 
 **Menu/pilihan:**
 - Tambah data mahasiswa
